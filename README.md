@@ -1,37 +1,17 @@
-# Mainstreet Web
+# Main Street / Generation Alpha Website
 
-This is the web repository for the Mainstreet project.
+This repository contains the code for the Main Street and Generation Alpha websites.
 
-## Project Structure
+**Main Street** is a private AI network for high-performing professionals across various fields, focused on leveraging AI for efficiency, earnings, and relationships.
 
-- `index.html`: The main landing page.
-- `baseof.html`: Base template for Hugo.
-- `style.css`: Main stylesheet.
-- `about.html`: Page explaining what Mainstreet is.
-- `css/assets/`: Contains static assets like images and CSS.
+**Generation Alpha** is dedicated to empowering the next generation with AI knowledge and skills, including a **Kids AI Club** for hands-on learning.
 
-## Getting Started
+## Viewing the Site
 
-To run this project locally, you will need to have Hugo installed.
+This is a static HTML website. To view it, simply open the `index.html` file in your web browser.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/stivizi/mainstreet_web.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd mainstreet_web
-   ```
-3. Run the Hugo development server:
-   ```bash
-   hugo server
-   ```
-   This will start a local server at `http://localhost:1313/`.
+```bash
+open index.html
+```
 
-## Contributing
-
-Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+Alternatively, you can use a local web server to serve the files.
